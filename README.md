@@ -1,7 +1,7 @@
 # Beer Finder App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-An assessments using the Punk API to find beer brewing recipes
+An assignment using the Punk API to find beer brewing recipes
 
 ## Available Scripts
 
